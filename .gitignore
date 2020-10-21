@@ -1,0 +1,8 @@
+# Composer files
+vendor/
+
+# Cached responses
+/cache/**/*.json
+
+# Secrets
+.env
